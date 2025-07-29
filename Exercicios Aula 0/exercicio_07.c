@@ -20,6 +20,9 @@ int main()
     {
         numero++;
         carectere++;
-        printf("Numero incrementado: %d\n", numero);
     }
+    printf("Resultado do incremento:\n");
+    printf("Numero: %d\n", numero);
+    printf("Caractere: %c\n", carectere);
+    return 0;
 }
