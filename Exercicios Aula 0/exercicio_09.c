@@ -4,6 +4,14 @@
 
 int main()
 {
+    int numero;
+
+    printf("Digite um numero inteiro: ");
+    scanf("%d", &numero);
+
+    parOuImpar(numero);
+
+    return 0;
 }
 
 int parOuImpar(int numero)
