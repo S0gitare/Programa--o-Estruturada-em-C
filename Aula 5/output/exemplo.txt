@@ -1,0 +1,2 @@
+Escrevendo no arquivo exemplo.txt 
+Anexando mais uma linha ao arquivo exemplo.txt 

@@ -1,0 +1,29 @@
+{
+    "0": {
+        "nome": "Alecsander Lima",
+        "idade": 20,
+        "endereco": {
+            "rua": "Américo Santa Rosa",
+            "numero": "16",
+            "cidade": "Belém"
+        }
+    },
+    "1": {
+        "nome": "Monick Jardim",
+        "idade": 21,
+        "endereco": {
+            "rua": "Passagem Messia",
+            "numero": "67",
+            "cidade": "Belém"
+        }
+    },
+    "2": {
+        "nome": "Gato do Casal",
+        "idade": 4,
+        "endereco": {
+            "rua": "Nazaré",
+            "numero": "54",
+            "cidade": "Belém"
+        }
+    }
+}
